@@ -6,7 +6,7 @@ export const PreviewContext = createContext({
 	image: {},
 	title: '',
 	description: '',
-	statuses: []
+	statuses: [],
 });
 
 export default function PreviewContextProvider({ children }) {

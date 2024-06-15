@@ -3,7 +3,7 @@ import meetingImg from './assets/meeting.jpg';
 export const PREVIEW = {
 	image: {
 		src: meetingImg,
-		alt: 'People at a meeting'
+		alt: 'People at a meeting',
 	},
 	title: 'Get insights that help your business grow.',
 	description:
@@ -11,15 +11,15 @@ export const PREVIEW = {
 	statuses: [
 		{
 			label: 'Companies',
-			amount: '10K+'
+			amount: '10K+',
 		},
 		{
 			label: 'Templates',
-			amount: '314'
+			amount: '314',
 		},
 		{
 			label: 'Queries',
-			amount: '12M+'
-		}
-	]
+			amount: '12M+',
+		},
+	],
 };
